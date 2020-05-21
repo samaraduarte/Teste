@@ -1,5 +1,5 @@
 {
-  "evontos": [
+  "eventos": [
      { "id": 1, "cadastradoPor": "Ana", "nome": "Exposição da Ana", "responsavel": "Ana", "valor": "Gratis", "tipo": "Exposição", "descricao": "Sou apaixonada por artes e esculturas, nessa exposição serão apresentadas e leiloadas minhas esculturas de madeira.", "data": "28-07-2020", "horario": "18:00", "contato": "ana@ana.com", "endereco": {"cidade": "Belo Horizonte", "bairro": "Jatobá", "rua": 10, "numero": 200}},                                           
      { "id": 2, "cadastradoPor": "Mario", "nome": "Dança na chuva", "responsavel": "Mario e Artur Lins", "valor": "Gratis", "tipo": "Exposição de fotos", "descricao": "Somos fotografos e juntos registramos momentos de quando a chuva chega em Cabaceiras, Paraíba, a cidade que menos chove em todo Brasil.", "data": "29-07-2020", "horario": "20:00", "contato": "(31) 3030-0020", "endereco": {"cidade": "Belo Horizonte", "bairro": "Fazendinha", "rua": "João Batista", "numero": 22}},   
      { "id": 3, "cadastradoPor": "Luiza", "nome": "Luz", "responsavel": "Luiza", "tipo": "Exposição de fotos", "descrição": ".", "data": "30-07-2020", "horario": "22:00", "endereco": {"cidade": "Belo Horizonte", "bairro": "Baleia", "rua": "Avenida Brasil", "numero": 3000}}, 
